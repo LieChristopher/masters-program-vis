@@ -1,1 +1,6 @@
+.kiro/
+
 my_profile.json
+
+__pychache__/
+**/__pychache__/

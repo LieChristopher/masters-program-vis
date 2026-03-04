@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "base_currency": "Local currencies",
+    "target_currency": "IDR",
+    "last_updated": "2026-03-04",
+    "source": "Manual"
+  },
+  "rates_to_idr": {
+    "USD": 16000,
+    "EUR": 17600,
+    "GBP": 20320,
+    "CHF": 18000,
+    "SEK": 1520,
+    "DKK": 2144,
+    "CAD": 11840,
+    "AUD": 10560,
+    "SGD": 11840,
+    "CNY": 2240,
+    "IDR": 1
+  }
+}

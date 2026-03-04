@@ -1,0 +1,1450 @@
+{
+  "universities": {
+    "MIT": {
+      "name": "Massachusetts Institute of Technology",
+      "country": "USA",
+      "region": "North America",
+      "city": "Boston",
+      "tuition_per_year": {
+        "amount": 55000,
+        "currency": "USD"
+      },
+      "living_per_year": {
+        "amount": 25000,
+        "currency": "USD"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "salaries": {
+        "USA": 180000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Highest",
+        "visa_difficulty": "Very Hard",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Hard (5-10+ years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Optional (thesis or capstone)",
+        "internship_opportunities": "Excellent",
+        "best_for": "PhD pipeline or Top tech companies (FAANG)"
+      },
+      "qs_ranking_2026": 1,
+      "the_ranking_2026": 5,
+      "csrankings_ai_2026": 3,
+      "us_news_cs_2026": 2,
+      "admission_rate": 0.03,
+      "enrollment": 150,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Stanford": {
+      "name": "Stanford University",
+      "country": "USA",
+      "region": "North America",
+      "city": "San Francisco",
+      "tuition_per_year": {
+        "amount": 60000,
+        "currency": "USD"
+      },
+      "living_per_year": {
+        "amount": 30000,
+        "currency": "USD"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "USA": 200000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Highest",
+        "visa_difficulty": "Very Hard",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Hard (5-10+ years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Optional (thesis or capstone)",
+        "internship_opportunities": "Excellent",
+        "best_for": "PhD pipeline or Silicon Valley careers"
+      },
+      "qs_ranking_2026": 3,
+      "the_ranking_2026": 4,
+      "csrankings_ai_2026": 5,
+      "us_news_cs_2026": 3,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.04,
+      "enrollment": 180,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Carnegie Mellon": {
+      "name": "Carnegie Mellon University",
+      "country": "USA",
+      "region": "North America",
+      "city": "Pittsburgh",
+      "tuition_per_year": {
+        "amount": 50000,
+        "currency": "USD"
+      },
+      "living_per_year": {
+        "amount": 20000,
+        "currency": "USD"
+      },
+      "duration_years": 1.5,
+      "tier": 1,
+      "salaries": {
+        "USA": 170000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Highest",
+        "visa_difficulty": "Very Hard",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Hard (5-10+ years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Optional (practicum or thesis)",
+        "internship_opportunities": "Excellent",
+        "best_for": "Industry (robotics, NLP, CV) or PhD"
+      },
+      "qs_ranking_2026": 52,
+      "the_ranking_2026": 28,
+      "csrankings_ai_2026": 4,
+      "us_news_cs_2026": 4,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.08,
+      "enrollment": 250,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Oxford": {
+      "name": "University of Oxford",
+      "country": "UK",
+      "region": "Europe",
+      "city": "Oxford",
+      "tuition_per_year": {
+        "amount": 45000,
+        "currency": "GBP"
+      },
+      "living_per_year": {
+        "amount": 20000,
+        "currency": "GBP"
+      },
+      "duration_years": 1,
+      "tier": 1,
+      "salaries": {
+        "UK": 80000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "High",
+        "visa_difficulty": "Medium",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Medium (3-6 years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "Very High",
+        "industry_connections": "Moderate",
+        "thesis_requirement": "Required (dissertation)",
+        "internship_opportunities": "Limited",
+        "best_for": "PhD pipeline or Research-focused careers"
+      },
+      "qs_ranking_2026": 4,
+      "the_ranking_2026": 1,
+      "csrankings_ai_2026": 25,
+      "us_news_cs_2026": 6,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.05,
+      "enrollment": 120,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Cambridge": {
+      "name": "University of Cambridge",
+      "country": "UK",
+      "region": "Europe",
+      "city": "Cambridge",
+      "tuition_per_year": {
+        "amount": 45000,
+        "currency": "GBP"
+      },
+      "living_per_year": {
+        "amount": 20000,
+        "currency": "GBP"
+      },
+      "duration_years": 1,
+      "tier": 1,
+      "salaries": {
+        "UK": 80000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "High",
+        "visa_difficulty": "Medium",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Medium (3-6 years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "Very High",
+        "industry_connections": "Moderate",
+        "thesis_requirement": "Required (dissertation)",
+        "internship_opportunities": "Limited",
+        "best_for": "PhD pipeline or Research-focused careers"
+      },
+      "qs_ranking_2026": 6,
+      "the_ranking_2026": 3,
+      "csrankings_ai_2026": 30,
+      "us_news_cs_2026": 15,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.05,
+      "enrollment": 120,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Imperial": {
+      "name": "Imperial College London",
+      "country": "UK",
+      "region": "Europe",
+      "city": "London",
+      "tuition_per_year": {
+        "amount": 45000,
+        "currency": "GBP"
+      },
+      "living_per_year": {
+        "amount": 25000,
+        "currency": "GBP"
+      },
+      "duration_years": 1,
+      "tier": 2,
+      "salaries": {
+        "UK": 75000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "High",
+        "visa_difficulty": "Medium",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Medium (3-6 years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "Medium",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Optional (project or thesis)",
+        "internship_opportunities": "Good",
+        "best_for": "Industry careers (London tech scene)"
+      },
+      "qs_ranking_2026": 2,
+      "the_ranking_2026": 9,
+      "csrankings_ai_2026": 35,
+      "us_news_cs_2026": 18,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.08,
+      "enrollment": 200,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "ETH Zurich": {
+      "name": "ETH Zurich",
+      "country": "Switzerland",
+      "region": "Europe",
+      "city": "Zurich",
+      "tuition_per_year": {
+        "amount": 1500,
+        "currency": "CHF"
+      },
+      "living_per_year": {
+        "amount": 22000,
+        "currency": "CHF"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "Switzerland": 138000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Highest",
+        "visa_difficulty": "Hard",
+        "ai_maturity": "Tier 2",
+        "path_to_pr": "Hard (10+ years)",
+        "work_language": "English (some German helpful)"
+      },
+      "program_focus": {
+        "research_intensity": "High",
+        "industry_connections": "Strong",
+        "thesis_requirement": "Required (Master's thesis)",
+        "internship_opportunities": "Good",
+        "best_for": "PhD pipeline or Swiss/EU tech companies"
+      },
+      "qs_ranking_2026": 7,
+      "the_ranking_2026": 11,
+      "csrankings_ai_2026": 15,
+      "us_news_cs_2026": 7,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.1,
+      "enrollment": 180,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "TUM Munich": {
+      "name": "Technical University of Munich",
+      "country": "Germany",
+      "region": "Europe",
+      "city": "Munich",
+      "tuition_per_year": {
+        "amount": 12000,
+        "currency": "EUR"
+      },
+      "living_per_year": {
+        "amount": 15000,
+        "currency": "EUR"
+      },
+      "duration_years": 2,
+      "tier": 2,
+      "salaries": {
+        "Germany": 72000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Medium-High",
+        "visa_difficulty": "Easy",
+        "ai_maturity": "Tier 2",
+        "path_to_pr": "Easy (3-5 years)",
+        "work_language": "English (German helpful)"
+      },
+      "program_focus": {
+        "research_intensity": "Medium",
+        "industry_connections": "Strong",
+        "thesis_requirement": "Required (Master's thesis)",
+        "internship_opportunities": "Excellent",
+        "best_for": "Industry careers in Germany/EU"
+      },
+      "qs_ranking_2026": 28,
+      "the_ranking_2026": 30,
+      "csrankings_ai_2026": 48,
+      "us_news_cs_2026": 40,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.15,
+      "enrollment": 300,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "NUS Singapore": {
+      "name": "National University of Singapore",
+      "country": "Singapore",
+      "region": "Asia",
+      "city": "Singapore",
+      "tuition_per_year": {
+        "amount": 40000,
+        "currency": "SGD"
+      },
+      "living_per_year": {
+        "amount": 15000,
+        "currency": "SGD"
+      },
+      "duration_years": 1.5,
+      "tier": 2,
+      "salaries": {
+        "Singapore": 70000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "High",
+        "visa_difficulty": "Easy",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Medium (2-6 years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Optional (thesis or project)",
+        "internship_opportunities": "Excellent",
+        "best_for": "Industry or research in Asia"
+      },
+      "qs_ranking_2026": 8,
+      "the_ranking_2026": 17,
+      "csrankings_ai_2026": 12,
+      "us_news_cs_2026": 9,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.12,
+      "enrollment": 200,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Tsinghua Beijing": {
+      "name": "Tsinghua University",
+      "country": "China",
+      "region": "Asia",
+      "city": "Beijing",
+      "city_tier": "Tier 1",
+      "tuition_per_year": {
+        "amount": 5000,
+        "currency": "CNY"
+      },
+      "living_per_year": {
+        "amount": 24000,
+        "currency": "CNY"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "China": 75000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Medium-High",
+        "visa_difficulty": "Hard",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Very Hard (nearly impossible)",
+        "work_language": "Mandarin (essential)"
+      },
+      "city_details": {
+        "companies": [
+          "Baidu",
+          "ByteDance",
+          "Xiaomi"
+        ],
+        "pros": [
+          "Best universities",
+          "Most AI jobs",
+          "Government connections"
+        ],
+        "cons": [
+          "Most expensive",
+          "Pollution",
+          "Very competitive"
+        ]
+      },
+      "program_focus": {
+        "research_intensity": "Very High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Required (Master's thesis)",
+        "internship_opportunities": "Excellent",
+        "best_for": "PhD pipeline or Top Chinese tech companies"
+      },
+      "qs_ranking_2026": 20,
+      "the_ranking_2026": 12,
+      "csrankings_ai_2026": 1,
+      "us_news_cs_2026": 1,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.08,
+      "enrollment": 250,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Peking Beijing": {
+      "name": "Peking University",
+      "country": "China",
+      "region": "Asia",
+      "city": "Beijing",
+      "city_tier": "Tier 1",
+      "tuition_per_year": {
+        "amount": 5000,
+        "currency": "CNY"
+      },
+      "living_per_year": {
+        "amount": 24000,
+        "currency": "CNY"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "China": 72000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Medium-High",
+        "visa_difficulty": "Hard",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Very Hard (nearly impossible)",
+        "work_language": "Mandarin (essential)"
+      },
+      "city_details": {
+        "companies": [
+          "Baidu",
+          "ByteDance",
+          "Xiaomi"
+        ],
+        "pros": [
+          "Best universities",
+          "Most AI jobs",
+          "Government connections"
+        ],
+        "cons": [
+          "Most expensive",
+          "Pollution",
+          "Very competitive"
+        ]
+      },
+      "program_focus": {
+        "research_intensity": "Very High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Required (Master's thesis)",
+        "internship_opportunities": "Excellent",
+        "best_for": "PhD pipeline or Top Chinese tech companies"
+      },
+      "qs_ranking_2026": 14,
+      "the_ranking_2026": 13,
+      "csrankings_ai_2026": 2,
+      "us_news_cs_2026": 5,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.1,
+      "enrollment": 200,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "SJTU Shanghai": {
+      "name": "Shanghai Jiao Tong University",
+      "country": "China",
+      "region": "Asia",
+      "city": "Shanghai",
+      "city_tier": "Tier 1",
+      "tuition_per_year": {
+        "amount": 5000,
+        "currency": "CNY"
+      },
+      "living_per_year": {
+        "amount": 24000,
+        "currency": "CNY"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "China": 68000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Medium-High",
+        "visa_difficulty": "Hard",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Very Hard (nearly impossible)",
+        "work_language": "Mandarin (some English in business)"
+      },
+      "city_details": {
+        "companies": [
+          "Alibaba Cloud",
+          "International firms",
+          "Finance"
+        ],
+        "pros": [
+          "Top AI ranking (tied #1)",
+          "International",
+          "Quality of life"
+        ],
+        "cons": [
+          "Expensive",
+          "Very competitive"
+        ]
+      },
+      "program_focus": {
+        "research_intensity": "Very High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Required (Master's thesis)",
+        "internship_opportunities": "Excellent",
+        "best_for": "PhD pipeline or AI research careers"
+      },
+      "qs_ranking_2026": 45,
+      "the_ranking_2026": 51,
+      "csrankings_ai_2026": 1,
+      "us_news_cs_2026": 8,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.1,
+      "enrollment": 220,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Zhejiang Hangzhou": {
+      "name": "Zhejiang University",
+      "country": "China",
+      "region": "Asia",
+      "city": "Hangzhou",
+      "city_tier": "New Tier 1",
+      "tuition_per_year": {
+        "amount": 4500,
+        "currency": "CNY"
+      },
+      "living_per_year": {
+        "amount": 18000,
+        "currency": "CNY"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "China": 62000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "Medium-High",
+        "visa_difficulty": "Hard",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Very Hard (nearly impossible)",
+        "work_language": "Mandarin (essential)"
+      },
+      "city_details": {
+        "companies": [
+          "Alibaba HQ",
+          "E-commerce startups",
+          "Cloud computing"
+        ],
+        "pros": [
+          "30% cheaper than Beijing",
+          "Top AI program (tied #3 with CMU)",
+          "Beautiful city",
+          "Alibaba opportunities"
+        ],
+        "cons": [
+          "Fewer international companies",
+          "Mandarin essential"
+        ]
+      },
+      "program_focus": {
+        "research_intensity": "High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Required (Master's thesis)",
+        "internship_opportunities": "Excellent",
+        "best_for": "Alibaba/E-commerce AI or PhD pipeline"
+      },
+      "qs_ranking_2026": 44,
+      "the_ranking_2026": 55,
+      "csrankings_ai_2026": 6,
+      "us_news_cs_2026": 10,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.15,
+      "enrollment": 200,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "Toronto": {
+      "name": "University of Toronto",
+      "country": "Canada",
+      "region": "North America",
+      "city": "Toronto",
+      "tuition_per_year": {
+        "amount": 34000,
+        "currency": "CAD"
+      },
+      "living_per_year": {
+        "amount": 18000,
+        "currency": "CAD"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "Canada": 86000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "High",
+        "visa_difficulty": "Easy",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Very Easy (1-3 years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "Very High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Optional (thesis or MEng)",
+        "internship_opportunities": "Excellent",
+        "best_for": "Vector Institute (Hinton's lab) or Canada PR"
+      },
+      "qs_ranking_2026": 21,
+      "the_ranking_2026": 21,
+      "csrankings_ai_2026": 8,
+      "us_news_cs_2026": 12,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.1,
+      "enrollment": 240,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    },
+    "UBC": {
+      "name": "University of British Columbia",
+      "country": "Canada",
+      "region": "North America",
+      "city": "Vancouver",
+      "tuition_per_year": {
+        "amount": 30000,
+        "currency": "CAD"
+      },
+      "living_per_year": {
+        "amount": 17000,
+        "currency": "CAD"
+      },
+      "duration_years": 2,
+      "tier": 1,
+      "salaries": {
+        "Canada": 83000,
+        "Indonesia": 30000
+      },
+      "career_attributes": {
+        "salary_tier": "High",
+        "visa_difficulty": "Easy",
+        "ai_maturity": "Tier 1",
+        "path_to_pr": "Very Easy (1-3 years)",
+        "work_language": "English"
+      },
+      "program_focus": {
+        "research_intensity": "Very High",
+        "industry_connections": "Excellent",
+        "thesis_requirement": "Optional (thesis or project)",
+        "internship_opportunities": "Excellent",
+        "best_for": "Vancouver tech scene or Canada PR"
+      },
+      "qs_ranking_2026": 38,
+      "the_ranking_2026": 40,
+      "csrankings_ai_2026": 40,
+      "us_news_cs_2026": 30,
+      "urls": {
+        "website": "",
+        "program_page": "",
+        "admissions": "",
+        "curriculum": ""
+      },
+      "admission_rate": 0.12,
+      "enrollment": 200,
+      "human_validated": false,
+      "last_updated": "2026-03-04",
+      "tier_override": null,
+      "tier_override_reason": ""
+    }
+  },
+  "scholarships": {
+    "LPDP": {
+      "name": "LPDP (Indonesian Government)",
+      "tuition_coverage": 1.0,
+      "living_coverage": 1.0,
+      "flights_covered": true,
+      "return_required": true,
+      "return_years": 2,
+      "eligible_countries": [
+        "Indonesia"
+      ],
+      "eligible_regions": [
+        "All"
+      ],
+      "success_rate": "High",
+      "notes": "Must return to Indonesia for 2+ years",
+      "age_limit": {
+        "min_age": null,
+        "max_age": 35,
+        "notes": "35 for mid-career professionals, no limit for fresh graduates"
+      },
+      "urls": {
+        "website": "",
+        "application_page": "",
+        "requirements": ""
+      },
+      "human_validated": false,
+      "last_updated": "2026-03-04"
+    },
+    "Chevening": {
+      "name": "Chevening Scholarship (UK Government)",
+      "tuition_coverage": 1.0,
+      "living_coverage": 1.0,
+      "flights_covered": true,
+      "return_required": true,
+      "return_years": 2,
+      "eligible_countries": [
+        "Commonwealth"
+      ],
+      "eligible_regions": [
+        "Europe"
+      ],
+      "success_rate": "Medium",
+      "notes": "Requires 2,800 work hours minimum",
+      "age_limit": {
+        "min_age": null,
+        "max_age": null,
+        "notes": "No age limit"
+      },
+      "urls": {
+        "website": "",
+        "application_page": "",
+        "requirements": ""
+      },
+      "human_validated": false,
+      "last_updated": "2026-03-04"
+    },
+    "Australia Awards": {
+      "name": "Australia Awards",
+      "tuition_coverage": 1.0,
+      "living_coverage": 1.0,
+      "flights_covered": true,
+      "return_required": true,
+      "return_years": 2,
+      "eligible_countries": [
+        "Indonesia"
+      ],
+      "eligible_regions": [
+        "Asia-Pacific"
+      ],
+      "success_rate": "High",
+      "notes": "Focus on development impact",
+      "age_limit": {
+        "min_age": null,
+        "max_age": null,
+        "notes": "No strict age limit, preference for mid-career professionals"
+      },
+      "urls": {
+        "website": "",
+        "application_page": "",
+        "requirements": ""
+      },
+      "human_validated": false,
+      "last_updated": "2026-03-04"
+    },
+    "Erasmus Mundus": {
+      "name": "Erasmus Mundus Scholarship",
+      "tuition_coverage": 1.0,
+      "living_coverage": 1.0,
+      "flights_covered": true,
+      "return_required": false,
+      "return_years": 0,
+      "eligible_countries": [
+        "All"
+      ],
+      "eligible_regions": [
+        "Europe"
+      ],
+      "success_rate": "Medium",
+      "notes": "15 scholarships for EMAI program",
+      "age_limit": {
+        "min_age": null,
+        "max_age": null,
+        "notes": "No age limit"
+      },
+      "urls": {
+        "website": "",
+        "application_page": "",
+        "requirements": ""
+      },
+      "human_validated": false,
+      "last_updated": "2026-03-04"
+    },
+    "DAAD": {
+      "name": "DAAD Scholarship (Germany)",
+      "tuition_coverage": 1.0,
+      "living_coverage": 0.8,
+      "flights_covered": true,
+      "return_required": false,
+      "return_years": 0,
+      "eligible_countries": [
+        "All"
+      ],
+      "eligible_regions": [
+        "Europe"
+      ],
+      "success_rate": "Medium",
+      "notes": "\u20ac992/month for Master's students",
+      "age_limit": {
+        "min_age": null,
+        "max_age": null,
+        "notes": "No strict age limit, preference for younger candidates"
+      },
+      "urls": {
+        "website": "",
+        "application_page": "",
+        "requirements": ""
+      },
+      "human_validated": false,
+      "last_updated": "2026-03-04"
+    },
+    "No Scholarship (Self-fund)": {
+      "name": "No Scholarship (Self-fund)",
+      "tuition_coverage": 0.0,
+      "living_coverage": 0.0,
+      "flights_covered": false,
+      "return_required": false,
+      "return_years": 0,
+      "eligible_countries": [
+        "All"
+      ],
+      "success_rate": "N/A",
+      "notes": "Full self-funding. No scholarship coverage.",
+      "human_validated": false,
+      "last_updated": "2026-03-04"
+    }
+  },
+  "scholarship_availability": {
+    "MIT": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "Stanford": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "Carnegie Mellon": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "Toronto": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "UBC": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "Oxford": [
+      "LPDP",
+      "Chevening",
+      "No Scholarship (Self-fund)"
+    ],
+    "Cambridge": [
+      "LPDP",
+      "Chevening",
+      "No Scholarship (Self-fund)"
+    ],
+    "Imperial": [
+      "LPDP",
+      "Chevening",
+      "No Scholarship (Self-fund)"
+    ],
+    "ETH Zurich": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "TUM Munich": [
+      "LPDP",
+      "DAAD",
+      "No Scholarship (Self-fund)"
+    ],
+    "NUS Singapore": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "Tsinghua Beijing": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "Peking Beijing": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "SJTU Shanghai": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ],
+    "Zhejiang Hangzhou": [
+      "LPDP",
+      "No Scholarship (Self-fund)"
+    ]
+  },
+  "regions": {
+    "North America": {
+      "countries": [
+        "USA",
+        "Canada"
+      ],
+      "characteristics": {
+        "cost_level": "High to Highest",
+        "salary_range": "$70k-250k",
+        "visa_difficulty": "Easy (Canada) to Very Hard (USA)",
+        "ai_maturity": "Tier 1",
+        "language": "English"
+      }
+    },
+    "Europe": {
+      "countries": [
+        "UK",
+        "Germany",
+        "Switzerland",
+        "Netherlands",
+        "France",
+        "Sweden",
+        "Denmark",
+        "Finland"
+      ],
+      "characteristics": {
+        "cost_level": "Low to High (varies by country)",
+        "salary_range": "$60k-150k",
+        "visa_difficulty": "Easy to Medium",
+        "ai_maturity": "Tier 1-2",
+        "language": "English (varies by country)"
+      }
+    },
+    "Asia": {
+      "countries": [
+        "China",
+        "Singapore",
+        "Japan",
+        "South Korea",
+        "Hong Kong"
+      ],
+      "city_tiers_china": {
+        "Tier 1": [
+          "Beijing",
+          "Shanghai",
+          "Shenzhen",
+          "Guangzhou"
+        ],
+        "New Tier 1": [
+          "Hangzhou",
+          "Nanjing",
+          "Chengdu",
+          "Wuhan"
+        ],
+        "Tier 2": [
+          "Xi'an",
+          "Changsha",
+          "Hefei",
+          "Qingdao"
+        ]
+      },
+      "characteristics": {
+        "cost_level": "Low to High (varies widely)",
+        "salary_range": "$30k-75k",
+        "visa_difficulty": "Easy to Hard (varies)",
+        "ai_maturity": "Tier 1-2",
+        "language": "English (Singapore) or local languages"
+      }
+    },
+    "Asia-Pacific": {
+      "countries": [
+        "Australia"
+      ],
+      "characteristics": {
+        "cost_level": "High",
+        "salary_range": "$85k-95k",
+        "visa_difficulty": "Easy",
+        "ai_maturity": "Tier 1",
+        "language": "English"
+      }
+    }
+  },
+  "paths": {
+    "A": {
+      "name": "Indonesia Career (Return Required)",
+      "description": "Take LPDP or similar scholarship, return to Indonesia for 2+ years",
+      "best_for": [
+        "Building career in Indonesia",
+        "Fully funded education priority",
+        "Strong Indonesian network"
+      ],
+      "scholarships": [
+        "LPDP",
+        "Australia Awards",
+        "Chevening"
+      ],
+      "pros": [
+        "Fully funded (no debt)",
+        "High success rate for Indonesians",
+        "Access to elite universities",
+        "LPDP alumni network",
+        "Government connections"
+      ],
+      "cons": [
+        "Must return to Indonesia 2+ years",
+        "Cannot work in USA/EU immediately",
+        "Indonesian salary (lower than international)",
+        "Opportunity cost of ~$200k-400k"
+      ],
+      "recommended_if": {
+        "career_location": "Indonesia",
+        "can_return": true,
+        "priority": "funding_security"
+      }
+    },
+    "B": {
+      "name": "International Career (No Return)",
+      "description": "Focus on scholarships without return requirements, pursue international career immediately",
+      "best_for": [
+        "International career priority",
+        "High salary markets",
+        "No return commitment"
+      ],
+      "scholarships": [
+        "Erasmus Mundus",
+        "ETH ESOP",
+        "DAAD",
+        "Sp\u00e4rck AI"
+      ],
+      "pros": [
+        "Can pursue international career immediately",
+        "Access to high salaries ($70k-$250k)",
+        "No return commitment",
+        "International mobility"
+      ],
+      "cons": [
+        "More competitive scholarships",
+        "May require partial self-funding (USA)",
+        "Visa uncertainties",
+        "Lower success rate than LPDP"
+      ],
+      "recommended_if": {
+        "career_location": "International",
+        "can_return": false,
+        "priority": "salary_maximization"
+      }
+    },
+    "C": {
+      "name": "Hybrid Strategy",
+      "description": "Take LPDP, return 2+ years, then pursue international career",
+      "best_for": [
+        "Flexible career goals",
+        "Want both options",
+        "Risk-averse"
+      ],
+      "scholarships": [
+        "LPDP"
+      ],
+      "pros": [
+        "Fully funded education",
+        "No debt",
+        "Fulfill commitment then free to pursue international",
+        "Elite degree helps with future visa",
+        "Still young after commitment (26-28 years old)"
+      ],
+      "cons": [
+        "Delayed international career (2+ years)",
+        "May lose university connections",
+        "Opportunity cost during commitment period"
+      ],
+      "recommended_if": {
+        "career_location": "Flexible",
+        "can_return": true,
+        "priority": "minimize_risk"
+      }
+    }
+  },
+  "optimal_combinations": [
+    {
+      "university": "MIT",
+      "scholarship": "LPDP",
+      "path": "A",
+      "outcome": "Return to Indonesia",
+      "total_cost": 0,
+      "rating": 5,
+      "notes": "Best overall: Elite education, fully funded, but must return"
+    },
+    {
+      "university": "ETH Zurich",
+      "scholarship": "ETH ESOP",
+      "path": "B",
+      "outcome": "Switzerland career (CHF 124k)",
+      "total_cost": 2000,
+      "rating": 5,
+      "notes": "Best value: Top education, high salary, minimal cost"
+    },
+    {
+      "university": "Oxford",
+      "scholarship": "Chevening",
+      "path": "A",
+      "outcome": "Return to Indonesia",
+      "total_cost": 0,
+      "rating": 5,
+      "notes": "Prestige + funding, 1-year program, must return"
+    },
+    {
+      "university": "Erasmus Mundus EMAI",
+      "scholarship": "Erasmus Mundus",
+      "path": "B",
+      "outcome": "EU career",
+      "total_cost": 0,
+      "rating": 4,
+      "notes": "Fully funded, multi-country, EU career path"
+    },
+    {
+      "university": "TUM Munich",
+      "scholarship": "DAAD",
+      "path": "B",
+      "outcome": "Germany career (\u20ac66k)",
+      "total_cost": 0,
+      "rating": 4,
+      "notes": "Affordable, funded, 18-month job search visa"
+    }
+  ],
+  "decision_tree": {
+    "root": {
+      "question": "Where do you want to build your career after graduation?",
+      "options": {
+        "Indonesia": "path_a_check",
+        "International": "path_b_check",
+        "Flexible": "hybrid_check"
+      }
+    },
+    "path_a_check": {
+      "question": "Can you commit to returning to Indonesia for 2+ years?",
+      "options": {
+        "Yes": "path_a_recommend",
+        "No": "path_b_check"
+      }
+    },
+    "path_a_recommend": {
+      "result": "PATH A: LPDP \u2192 Top University \u2192 Return to Indonesia",
+      "action": "Apply for LPDP, Australia Awards, Chevening",
+      "path": "A"
+    },
+    "path_b_check": {
+      "question": "Can you afford partial self-funding if needed?",
+      "options": {
+        "Yes": "path_b_usa",
+        "No": "path_b_europe"
+      }
+    },
+    "path_b_usa": {
+      "result": "PATH B: Target USA (highest salary) or Europe",
+      "action": "Apply for Erasmus Mundus, ETH ESOP, Sp\u00e4rck AI, consider USA with partial funding",
+      "path": "B"
+    },
+    "path_b_europe": {
+      "result": "PATH B: Focus on fully-funded Europe options",
+      "action": "Apply for Erasmus Mundus, ETH ESOP, DAAD, Sp\u00e4rck AI",
+      "path": "B"
+    },
+    "hybrid_check": {
+      "question": "Are you willing to return to Indonesia for 2+ years?",
+      "options": {
+        "Yes": "hybrid_recommend",
+        "No": "path_b_check"
+      }
+    },
+    "hybrid_recommend": {
+      "result": "PATH C: HYBRID - LPDP \u2192 Return 2+ years \u2192 Then international",
+      "action": "Apply to BOTH Path A (LPDP) and Path B (Erasmus, ETH ESOP) scholarships",
+      "path": "C"
+    }
+  },
+  "action_items": {
+    "urgent": [
+      {
+        "condition": {
+          "ielts": {
+            "lt": 7.0
+          },
+          "toefl": {
+            "lt": 100
+          }
+        },
+        "action": "Book IELTS/TOEFL test (need 7.0+ / 100+)",
+        "priority": "\ud83d\udd34 URGENT"
+      },
+      {
+        "condition": {
+          "career_location": [
+            "Indonesia",
+            "Flexible"
+          ],
+          "can_return": true
+        },
+        "action": "Research LPDP exact return terms (lpdp.kemenkeu.go.id)",
+        "priority": "\ud83d\udd34 URGENT"
+      },
+      {
+        "condition": {
+          "career_location": [
+            "Indonesia",
+            "Flexible"
+          ],
+          "can_return": true
+        },
+        "action": "Start LPDP application (check deadline)",
+        "priority": "\ud83d\udd34 URGENT"
+      },
+      {
+        "condition": {
+          "career_location": [
+            "International",
+            "Flexible"
+          ]
+        },
+        "action": "Apply for Sp\u00e4rck AI (Imperial deadline: March 4, 2026)",
+        "priority": "\ud83d\udd34 URGENT"
+      }
+    ],
+    "high": [
+      {
+        "condition": {
+          "career_location": [
+            "International",
+            "Flexible"
+          ]
+        },
+        "action": "Apply for Erasmus Mundus EMAI (applications open)",
+        "priority": "\ud83d\udfe1 HIGH"
+      },
+      {
+        "condition": {},
+        "action": "Identify 3-4 recommendation letter writers",
+        "priority": "\ud83d\udfe1 HIGH"
+      },
+      {
+        "condition": {},
+        "action": "Create application deadline spreadsheet",
+        "priority": "\ud83d\udfe1 HIGH"
+      }
+    ],
+    "medium": [
+      {
+        "condition": {},
+        "action": "Connect with Indonesian students at target universities",
+        "priority": "\ud83d\udfe2 MEDIUM"
+      },
+      {
+        "condition": {},
+        "action": "Draft preliminary personal statement",
+        "priority": "\ud83d\udfe2 MEDIUM"
+      }
+    ]
+  },
+  "warnings": [
+    {
+      "condition": {
+        "career_location": "International",
+        "can_return": true
+      },
+      "title": "CONFLICTING GOALS",
+      "message": "You want international career but are willing to return. If you take LPDP \u2192 MUST return 2+ years. Consider HYBRID strategy."
+    },
+    {
+      "condition": {
+        "gpa": {
+          "lt": 3.3
+        }
+      },
+      "title": "GPA CONCERN",
+      "message": "Your GPA may limit access to top-tier programs. Strengthen with research, work experience, strong essays."
+    },
+    {
+      "condition": {
+        "ielts": {
+          "lt": 6.5
+        },
+        "toefl": {
+          "lt": 90
+        }
+      },
+      "title": "ENGLISH PROFICIENCY",
+      "message": "Most programs require IELTS 6.5-7.5 or TOEFL 90-100+. Take test soon to know baseline."
+    },
+    {
+      "condition": {
+        "can_self_fund": false,
+        "career_location": "International"
+      },
+      "title": "FUNDING CONSTRAINT",
+      "message": "International career path has fewer fully-funded options. Focus on: Erasmus Mundus, ETH ESOP, DAAD, Sp\u00e4rck AI."
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-27",
+    "version": "1.0",
+    "currency": "USD",
+    "notes": "All costs are annual unless specified. Salaries are post-graduation estimates for AI/ML roles."
+  }
+}

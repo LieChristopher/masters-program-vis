@@ -1,0 +1,146 @@
+{
+  "scholarships": {
+    "LPDP": {
+      "application_open": "",
+      "application_close": "",
+      "notification_date": "",
+      "enrollment_date": "",
+      "notes": ""
+    },
+    "Chevening": {
+      "application_open": "",
+      "application_close": "",
+      "notification_date": "",
+      "enrollment_date": "",
+      "notes": ""
+    },
+    "Australia Awards": {
+      "application_open": "",
+      "application_close": "",
+      "notification_date": "",
+      "enrollment_date": "",
+      "notes": ""
+    },
+    "Erasmus Mundus": {
+      "application_open": "",
+      "application_close": "",
+      "notification_date": "",
+      "enrollment_date": "",
+      "notes": ""
+    },
+    "DAAD": {
+      "application_open": "",
+      "application_close": "",
+      "notification_date": "",
+      "enrollment_date": "",
+      "notes": ""
+    }
+  },
+  "universities": {
+    "MIT": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Stanford": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Carnegie Mellon": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Oxford": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Cambridge": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Imperial": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "ETH Zurich": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "TUM Munich": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "NUS Singapore": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Tsinghua Beijing": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Peking Beijing": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "SJTU Shanghai": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Zhejiang Hangzhou": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "Toronto": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    },
+    "UBC": {
+      "application_open": "",
+      "application_close": "",
+      "decision_date": "",
+      "enrollment_deadline": "",
+      "notes": ""
+    }
+  }
+}

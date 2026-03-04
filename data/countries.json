@@ -1,0 +1,209 @@
+{
+  "USA": {
+    "name": "United States",
+    "salary_tier": "Highest",
+    "visa_type": "F-1",
+    "post_study_work_visa": "OPT",
+    "post_study_work_duration_years": 3,
+    "pr_eligible": true,
+    "pr_timeline_years": 5,
+    "pr_requirements": [
+      "H-1B sponsorship",
+      "Green card lottery"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "UK": {
+    "name": "United Kingdom",
+    "salary_tier": "High",
+    "visa_type": "Tier 4",
+    "post_study_work_visa": "PSW",
+    "post_study_work_duration_years": 2,
+    "pr_eligible": true,
+    "pr_timeline_years": 5,
+    "pr_requirements": [
+      "Skilled Worker visa",
+      "Points-based system"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Switzerland": {
+    "name": "Switzerland",
+    "salary_tier": "Highest",
+    "visa_type": "Student Permit",
+    "post_study_work_visa": "L Permit",
+    "post_study_work_duration_years": 1,
+    "pr_eligible": false,
+    "pr_timeline_years": 10,
+    "pr_requirements": [
+      "Very difficult",
+      "Requires employer sponsorship"
+    ],
+    "work_availability": "Medium",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Germany": {
+    "name": "Germany",
+    "salary_tier": "Medium-High",
+    "visa_type": "Student Visa",
+    "post_study_work_visa": "Job Seeker Visa",
+    "post_study_work_duration_years": 1.5,
+    "pr_eligible": true,
+    "pr_timeline_years": 3,
+    "pr_requirements": [
+      "Skilled Worker visa",
+      "Relatively easy"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Netherlands": {
+    "name": "Netherlands",
+    "salary_tier": "Medium-High",
+    "visa_type": "Student Residence Permit",
+    "post_study_work_visa": "Residence Permit",
+    "post_study_work_duration_years": 2,
+    "pr_eligible": true,
+    "pr_timeline_years": 5,
+    "pr_requirements": [
+      "Highly Skilled Migrant visa",
+      "Medium difficulty"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Sweden": {
+    "name": "Sweden",
+    "salary_tier": "Medium-High",
+    "visa_type": "Student Residence Permit",
+    "post_study_work_visa": "Residence Permit",
+    "post_study_work_duration_years": 1,
+    "pr_eligible": true,
+    "pr_timeline_years": 4,
+    "pr_requirements": [
+      "Work permit",
+      "Medium difficulty"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Denmark": {
+    "name": "Denmark",
+    "salary_tier": "High",
+    "visa_type": "Student Residence Permit",
+    "post_study_work_visa": "Residence Permit",
+    "post_study_work_duration_years": 1,
+    "pr_eligible": true,
+    "pr_timeline_years": 4,
+    "pr_requirements": [
+      "Work permit",
+      "Medium difficulty"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Finland": {
+    "name": "Finland",
+    "salary_tier": "Medium",
+    "visa_type": "Student Residence Permit",
+    "post_study_work_visa": "Residence Permit",
+    "post_study_work_duration_years": 1,
+    "pr_eligible": true,
+    "pr_timeline_years": 4,
+    "pr_requirements": [
+      "Work permit",
+      "Easy"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "China": {
+    "name": "China",
+    "salary_tier": "Medium-High",
+    "visa_type": "X Visa",
+    "post_study_work_visa": "Z Visa",
+    "post_study_work_duration_years": 1,
+    "pr_eligible": false,
+    "pr_timeline_years": 10,
+    "pr_requirements": [
+      "Very difficult",
+      "Requires employer sponsorship"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Singapore": {
+    "name": "Singapore",
+    "salary_tier": "High",
+    "visa_type": "Student Pass",
+    "post_study_work_visa": "Work Permit",
+    "post_study_work_duration_years": 1,
+    "pr_eligible": true,
+    "pr_timeline_years": 2,
+    "pr_requirements": [
+      "Employment Pass",
+      "Medium difficulty"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Australia": {
+    "name": "Australia",
+    "salary_tier": "High",
+    "visa_type": "Student Visa",
+    "post_study_work_visa": "Post-Study Work Visa",
+    "post_study_work_duration_years": 2,
+    "pr_eligible": true,
+    "pr_timeline_years": 2,
+    "pr_requirements": [
+      "Skilled Migration",
+      "Easy"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Canada": {
+    "name": "Canada",
+    "salary_tier": "High",
+    "visa_type": "Study Permit",
+    "post_study_work_visa": "PGWP",
+    "post_study_work_duration_years": 3,
+    "pr_eligible": true,
+    "pr_timeline_years": 1,
+    "pr_requirements": [
+      "Express Entry",
+      "Very easy"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  },
+  "Indonesia": {
+    "name": "Indonesia",
+    "salary_tier": "Low",
+    "visa_type": "N/A",
+    "post_study_work_visa": "N/A",
+    "post_study_work_duration_years": 0,
+    "pr_eligible": false,
+    "pr_timeline_years": 0,
+    "pr_requirements": [
+      "N/A"
+    ],
+    "work_availability": "High",
+    "human_validated": false,
+    "last_updated": "2026-03-04"
+  }
+}

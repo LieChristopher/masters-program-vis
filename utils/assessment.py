@@ -2,6 +2,80 @@
 Assessment and scoring functions
 """
 
+def convert_to_usd(amount, currency, exchange_rates):
+    """Convert any currency to USD"""
+    if currency == 'USD':
+        return amount
+    
+    rates = exchange_rates.get('rates', {})
+    rate = rates.get(currency, 1)
+    
+    if rate == 0:
+        return amount
+    
+    return amount / rate
+
+def get_cost_usd(uni_data, exchange_rates):
+    """Get total cost in USD"""
+    tuition = uni_data['tuition_per_year']
+    living = uni_data['living_per_year']
+    
+    tuition_usd = convert_to_usd(tuition['amount'], tuition['currency'], exchange_rates)
+    living_usd = convert_to_usd(living['amount'], living['currency'], exchange_rates)
+    
+    total_per_year = tuition_usd + living_usd
+    total_cost = total_per_year * uni_data['duration_years']
+    
+    return total_cost
+
+def calculate_tier_from_rankings(uni_data):
+    """Calculate tier from QS, THE, CSRankings average"""
+    qs = uni_data.get('qs_ranking_2026')
+    the = uni_data.get('the_ranking_2026')
+    cs = uni_data.get('csrankings_ai_2026')
+    
+    # Filter out None values
+    rankings = [r for r in [qs, the, cs] if r is not None]
+    
+    if not rankings:
+        return 3  # Default to Tier 3 if no rankings
+    
+    avg_ranking = sum(rankings) / len(rankings)
+    
+    if avg_ranking < 20:
+        return 1
+    elif avg_ranking < 50:
+        return 2
+    else:
+        return 3
+
+def get_tier(uni_data):
+    """Get tier with override support"""
+    if uni_data.get('tier_override') is not None:
+        return uni_data['tier_override']
+    return calculate_tier_from_rankings(uni_data)
+
+def is_tier_overridden(uni_data):
+    """Check if tier is overridden"""
+    return uni_data.get('tier_override') is not None
+
+def get_salary_usdˀ(uni_data, countries_data, exchange_rates):
+    """Calculate Indonesian salary in Rp from USD salary"""
+    country = uni_data.get('country')
+    if country not in uni_data.get('salaries', {}):
+        return None
+    
+    usd_salary = uni_data['salaries'][country]
+    
+    if country == 'Indonesia':
+        return usd_salary  # Already in Rp
+    
+    if 'rates_to_idr' not in exchange_rates:
+        return None
+    
+    exchange_rate = exchange_rates['rates_to_idr'].get('USD', 16000)
+    return int(usd_salary * exchange_rate)
+
 def assess_university_tier(gpa, ielts, toefl, has_research):
     ielts_score = ielts if ielts > 0 else (toefl / 120 * 9) if toefl > 0 else 0
     

@@ -1,0 +1,211 @@
+{
+  "scholarships": {
+    "LPDP": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "work_experience_years_max": null,
+      "citizenship_required": [],
+      "citizenship_excluded": [],
+      "age_min": null,
+      "age_max": null,
+      "notes": ""
+    },
+    "Chevening": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "work_experience_years_max": null,
+      "citizenship_required": [],
+      "citizenship_excluded": [],
+      "age_min": null,
+      "age_max": null,
+      "notes": ""
+    },
+    "Australia Awards": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "work_experience_years_max": null,
+      "citizenship_required": [],
+      "citizenship_excluded": [],
+      "age_min": null,
+      "age_max": null,
+      "notes": ""
+    },
+    "Erasmus Mundus": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "work_experience_years_max": null,
+      "citizenship_required": [],
+      "citizenship_excluded": [],
+      "age_min": null,
+      "age_max": null,
+      "notes": ""
+    },
+    "DAAD": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "work_experience_years_max": null,
+      "citizenship_required": [],
+      "citizenship_excluded": [],
+      "age_min": null,
+      "age_max": null,
+      "notes": ""
+    }
+  },
+  "universities": {
+    "MIT": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Stanford": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Carnegie Mellon": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Oxford": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Cambridge": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Imperial": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "ETH Zurich": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "TUM Munich": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "NUS Singapore": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Tsinghua Beijing": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Peking Beijing": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "SJTU Shanghai": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Zhejiang Hangzhou": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "Toronto": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    },
+    "UBC": {
+      "gpa_min": null,
+      "gre_min": null,
+      "gmat_min": null,
+      "ielts_min": null,
+      "toefl_min": null,
+      "work_experience_years_min": null,
+      "notes": ""
+    }
+  }
+}
